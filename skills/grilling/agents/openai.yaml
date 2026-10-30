@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grilling"
+  short_description: "문서와 코드를 먼저 확인하고 설계의 갈림길을 하나씩 묻습니다"
+  default_prompt: "$grilling 이 계획을 점검하고 중요한 결정을 한 번에 하나씩 질문해줘."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Setup"
+  short_description: "원본 폴더를 보존하고 Codex용 LLM Wiki를 설정합니다"
+  default_prompt: "$wiki-setup 이 문서 폴더에 기존 원본을 보존하는 LLM Wiki를 구성해줘."

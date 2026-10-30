@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "계획의 숨은 가정과 빈틈을 찾는 설계 인터뷰를 시작합니다"
+  default_prompt: "$grill-me 이 설계의 빈틈을 찾아 권장안과 함께 하나씩 질문해줘."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Ingest"
+  short_description: "새 자료를 검증하고 업무 폴더와 LLM Wiki에 반영합니다"
+  default_prompt: "$wiki-ingest 이 자료를 적절한 폴더에 배치하고 관련 위키 지식을 갱신해줘."
