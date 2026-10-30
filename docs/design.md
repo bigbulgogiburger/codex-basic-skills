@@ -2,7 +2,7 @@
 
 ## 공통 원칙과 선택 사항
 
-사용자가 제공한 「LLM Wiki — A pattern for building personal knowledge bases using LLMs」는 고정 디렉터리 표준이 아니라 도메인에 맞게 구체화할 아이디어 문서다. 여기서는 다음을 유지한다.
+「LLM Wiki — A pattern for building personal knowledge bases using LLMs」는 고정 디렉터리 표준이 아니라 도메인에 맞게 구체화할 아이디어 문서다. 이 패키지는 개인·연구·학습·팀 문서에 공통으로 적용하며, 특정 조직의 폴더 체계나 내부 도구를 요구하지 않는다. 여기서는 다음을 유지한다.
 
 | 원문 원칙 | 이 저장소의 구현 |
 |---|---|
